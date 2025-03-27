@@ -7,3 +7,4 @@ namespace Johan_Calle_WebApplication1.Models
         public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
     }
 }
+//Este es mi segundo cambio
